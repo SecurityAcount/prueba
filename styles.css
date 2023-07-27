@@ -74,7 +74,7 @@ nav ul li a {
 }
 
 /* Estilos para dispositivos móviles */
-@media screen and (max-width: 660px) {
+@media screen and (max-width: 1280px) {
   header {
     flex-direction: column;
     text-align: center;
